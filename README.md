@@ -45,6 +45,9 @@ Finally, I built a two-page interactive dashboard with an elegant executive desi
   This page tracks total revenue ($5.44K) and profits ($3.53K), while monitoring a critical gap of (-99.5%) against an ambitious target of $700K. It illustrates monthly trends, product category sales, and performance across different branch locations (e.g., Hell's Kitchen and Astoria).
 * **Page 2: Customer Feedback & Sentiment Analysis**
   This page integrates a custom word cloud displaying customers' main concerns and recurring experiences (morning, time, slow, understaffed, overpriced). It also features a matrix table linking product ratings with review counts.
+
+  ![Power BI Dashboard Overview](<img width="575" height="322" alt="image" src="https://github.com/user-attachments/assets/6e0c347f-f5c4-42d7-b447-2fccb87c9f3d" />
+)
 * **Dashboard Files:**
   * [📊 View Power BI Dashboard File](./Dashboard/)
 
@@ -57,3 +60,5 @@ To prove that data analysis only achieves its full value when it guides actual d
 * **Morning Operations and Staffing Allocation:** Optimize employee scheduling during "morning peak hours" to address recurring complaints about slowness and wait times.
 * **Price Adjustments and Value Proposition:** Review the pricing of low-rated menu items, and introduce morning bundle offers (e.g., coffee + pastry) to increase the customer's perceived value and the average ticket size.
 * **Replicating and Scaling Success Stories:** Analyze and scale the operating model and service quality of high-performing branches, applying them to lower-performing locations to ensure consistent revenue growth and a unified brand experience.
+
+
