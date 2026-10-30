@@ -46,8 +46,8 @@ Finally, I built a two-page interactive dashboard with an elegant executive desi
 * **Page 2: Customer Feedback & Sentiment Analysis**
   This page integrates a custom word cloud displaying customers' main concerns and recurring experiences (morning, time, slow, understaffed, overpriced). It also features a matrix table linking product ratings with review counts.
 
-  ![Power BI Dashboard Overview](<img width="575" height="322" alt="image" src="https://github.com/user-attachments/assets/6e0c347f-f5c4-42d7-b447-2fccb87c9f3d" />
-)
+  <img width="575" height="322" alt="image" src="https://github.com/user-attachments/assets/7a8d6c27-6b43-402c-981f-69688c3cd201" />
+
 * **Dashboard Files:**
   * [📊 View Power BI Dashboard File](./Dashboard/)
 
